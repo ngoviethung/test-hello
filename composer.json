@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hung\\SayHello\\": "helloworld/src/"
+            "Hung\\SayHello\\": "src/"
         }
     }
 }
