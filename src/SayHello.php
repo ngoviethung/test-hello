@@ -1,5 +1,5 @@
 <?php
-namespace hung\SayHello;
+namespace Hung\SayHello;
 class SayHello
 {
     public static function world()
