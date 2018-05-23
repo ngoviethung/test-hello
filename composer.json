@@ -1,0 +1,21 @@
+{
+    "name": "hung/hello-world",
+    "description": "the first composer package",
+    "type": "php",
+    "license": "aaa",
+    "authors": [
+        {
+            "name": "cungrsaynang",
+            "email": "trucxanh.mobi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "hung\\SayHello\\": "src/"
+        }
+    }
+}
